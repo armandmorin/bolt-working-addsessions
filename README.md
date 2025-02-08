@@ -1,1 +1,1 @@
-# bolt-working-addsessions
+# bolt-generated-project
